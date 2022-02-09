@@ -1,0 +1,4 @@
+#ifndef OPERATIONTYPE_H
+#define OPERATIONTYPE_H
+
+#endif // OPERATIONTYPE_H
